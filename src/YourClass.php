@@ -1,4 +1,4 @@
-<?php namespace Buonzz\Template;
+<?php namespace Nekrofage\HelloLib;
 
 /**
 *  A sample class
